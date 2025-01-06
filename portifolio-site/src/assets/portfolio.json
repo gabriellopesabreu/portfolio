@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Projeto de Aplicativo",
+      "description": "Um aplicativo móvel para gerenciar tarefas.",
+      "image": "https://via.placeholder.com/300x200"
+    },
+    {
+      "id": 2,
+      "title": "Site Institucional",
+      "description": "Site criado para uma empresa fictícia.",
+      "image": "https://via.placeholder.com/300x200"
+    },
+    {
+      "id": 3,
+      "title": "Utilizacao de API",
+      "description": "APP para utilizar API externa",
+      "image": "https://via.placeholder.com/300x200"
+    }
+  ]
+  
